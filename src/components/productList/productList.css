@@ -1,0 +1,36 @@
+.pl{
+    background-color: rgba(26, 36, 47);
+    padding: 40px 0;
+}
+
+.p-card-a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.p-title{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+
+.p-card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.p-card-button-sec{
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.p-card-button{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.p-card-content{
+    background-color: rgba(211, 211, 211, 0.4);
+}

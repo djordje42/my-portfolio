@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Weather Report",
+        "desc": "An app that can check temperature in any area in the world!",
+        "link": "https://djordje42.github.io/weather-report"
+    },
+    {
+        "id": 2,
+        "name": "Game of thrones API",
+        "desc": "A simple API projects that lists most of the important characters of the TV Show named \" Game of Thrones \".",
+        "link": "https://djordje42.github.io/gotapi-project/"
+    },
+    {
+        "id": 3,
+        "name": "Pomodoro App",
+        "desc": "An application that I made which helps me with studying.",
+        "link": "https://djordje42.github.io/pomodoro/"
+    },
+    {
+        "id": 1,
+        "name": "Weather Report",
+        "desc": "An app that can check temperature in any area in the world!",
+        "link": "https://djordje42.github.io/weather-report"
+    },
+    {
+        "id": 2,
+        "name": "Game of thrones API",
+        "desc": "A simple API projects that lists most of the important characters of the TV Show named \" Game of Thrones \".",
+        "link": "https://djordje42.github.io/gotapi-project/"
+    },
+    {
+        "id": 3,
+        "name": "Pomodoro App",
+        "desc": "An application that I made which helps me with studying.",
+        "link": "https://djordje42.github.io/pomodoro/"
+    }
+]
