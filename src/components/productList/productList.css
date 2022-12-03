@@ -1,5 +1,5 @@
 .pl{
-    background-color: rgba(26, 36, 47);
+    background-color: green;
     padding: 40px 0;
 }
 
@@ -23,7 +23,7 @@
 
 .p-card-button-sec{
     width: 100%;
-    background-color: blueviolet;
+    background-color: greenyellow;
 }
 
 .p-card-button{
@@ -33,4 +33,22 @@
 
 .p-card-content{
     background-color: rgba(211, 211, 211, 0.4);
+}
+
+@media only screen and (max-width: 767px){
+    .pl{
+        margin-top: 40px;
+        width: 100vh;
+    }
+    .p-title{
+        text-align: center;
+        display: flex;
+        margin: auto;
+    }
+    .p-card{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center !important;
+    }
 }

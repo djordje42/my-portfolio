@@ -2,7 +2,7 @@ import { color } from '@mui/system';
 import React from 'react'
 
 const style = {
-    backgroundColor: "#1a242f",
+    backgroundColor: "green",
     color: "#fff",
     borderTop: "1px solid #E7E7E7",
     textAlign: "center",

@@ -18,21 +18,21 @@
         "link": "https://djordje42.github.io/pomodoro/"
     },
     {
-        "id": 1,
-        "name": "Weather Report",
-        "desc": "An app that can check temperature in any area in the world!",
-        "link": "https://djordje42.github.io/weather-report"
+        "id": 4,
+        "name": "Brick breaker",
+        "desc": "A simple video game, \"Brick breaker\" inspired",
+        "link": "https://djordje42.github.io/brick-breaker"
     },
     {
-        "id": 2,
-        "name": "Game of thrones API",
-        "desc": "A simple API projects that lists most of the important characters of the TV Show named \" Game of Thrones \".",
-        "link": "https://djordje42.github.io/gotapi-project/"
+        "id": 5,
+        "name": "Restaurant website",
+        "desc": "Website about restaurant. Front only. Clone the repository so that you can see for yourself.",
+        "link": "https://github.com/djordje42/restaurant-website"
     },
     {
-        "id": 3,
-        "name": "Pomodoro App",
-        "desc": "An application that I made which helps me with studying.",
-        "link": "https://djordje42.github.io/pomodoro/"
+        "id": 6,
+        "name": "Mobile web shop",
+        "desc": "A fullstack application made with React and Node. Still in progress...",
+        "link": "#"
     }
 ]
