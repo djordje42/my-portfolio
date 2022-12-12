@@ -32,7 +32,7 @@
     {
         "id": 6,
         "name": "Mobile web shop",
-        "desc": "A fullstack application made with React and Node. Still in progress...",
-        "link": "#"
+        "desc": "MERN full stack app about cellphone web shop. Undeployed. But you can see the code.",
+        "link": "https://github.com/djordje42/mobile-frontend"
     }
 ]
